@@ -1,0 +1,131 @@
+<svg viewBox="0 0 1020 620" xmlns="http://www.w3.org/2000/svg" font-family="PingFang SC, Microsoft YaHei, system-ui, sans-serif" role="img" aria-label="长伴小程序三屏概念图：工作台、对话页、模块库">
+  <!-- Phone 1 -->
+  <rect x="30" y="24" width="300" height="540" rx="30" fill="var(--surface)" stroke="var(--border)" stroke-width="1.5"/>
+  <text x="58" y="56" font-size="11" fill="var(--muted)">9:41</text>
+  <text x="58" y="98" font-size="20" font-weight="600" fill="var(--fg)">长伴</text>
+  <text x="58" y="118" font-size="11" fill="var(--muted)">你的长期 AI 伙伴</text>
+  <rect x="54" y="136" width="252" height="44" rx="22" fill="var(--surface)" stroke="var(--border)"/>
+  <text x="78" y="163" font-size="12" fill="var(--muted)">有什么可以帮你？</text>
+  <circle cx="287" cy="158" r="11" fill="var(--accent)"/>
+  <text x="287" y="162" font-size="12" fill="var(--surface)" text-anchor="middle">+</text>
+  <text x="58" y="212" font-size="12" font-weight="600" fill="var(--fg)">我的模块</text>
+  <text x="306" y="212" font-size="10" fill="var(--muted)" text-anchor="end">编辑</text>
+
+  <rect x="54" y="226" width="120" height="84" rx="14" fill="var(--surface)" stroke="var(--border)"/>
+  <rect x="68" y="240" width="24" height="24" rx="8" fill="var(--accent)" opacity="0.12"/>
+  <text x="80" y="257" font-size="11" fill="var(--accent)" text-anchor="middle">写</text>
+  <text x="68" y="292" font-size="12" fill="var(--fg)">写作助手</text>
+
+  <rect x="186" y="226" width="120" height="84" rx="14" fill="var(--surface)" stroke="var(--border)"/>
+  <rect x="200" y="240" width="24" height="24" rx="8" fill="var(--accent)" opacity="0.12"/>
+  <text x="212" y="257" font-size="11" fill="var(--accent)" text-anchor="middle">学</text>
+  <text x="200" y="292" font-size="12" fill="var(--fg)">学习教练</text>
+
+  <rect x="54" y="322" width="120" height="84" rx="14" fill="var(--surface)" stroke="var(--border)"/>
+  <rect x="68" y="336" width="24" height="24" rx="8" fill="var(--accent)" opacity="0.12"/>
+  <text x="80" y="353" font-size="11" fill="var(--accent)" text-anchor="middle">日</text>
+  <text x="68" y="388" font-size="12" fill="var(--fg)">日程待办</text>
+
+  <rect x="186" y="322" width="120" height="84" rx="14" fill="var(--surface)" stroke="var(--border)"/>
+  <rect x="200" y="336" width="24" height="24" rx="8" fill="var(--accent)" opacity="0.12"/>
+  <text x="212" y="353" font-size="11" fill="var(--accent)" text-anchor="middle">译</text>
+  <text x="200" y="388" font-size="12" fill="var(--fg)">随身翻译</text>
+
+  <text x="180" y="440" font-size="11" fill="var(--muted)" text-anchor="middle">从模块库添加更多 →</text>
+
+  <line x1="54" y1="494" x2="306" y2="494" stroke="var(--border)"/>
+  <circle cx="80" cy="512" r="2" fill="var(--accent)"/>
+  <text x="80" y="536" font-size="10" fill="var(--accent)" text-anchor="middle">首页</text>
+  <text x="145" y="536" font-size="10" fill="var(--muted)" text-anchor="middle">对话</text>
+  <text x="210" y="536" font-size="10" fill="var(--muted)" text-anchor="middle">模块</text>
+  <text x="275" y="536" font-size="10" fill="var(--muted)" text-anchor="middle">我的</text>
+
+  <!-- Phone 2 -->
+  <rect x="360" y="24" width="300" height="540" rx="30" fill="var(--surface)" stroke="var(--border)" stroke-width="1.5"/>
+  <text x="388" y="56" font-size="11" fill="var(--muted)">9:41</text>
+  <path d="M394 92 L404 84 M394 92 L404 100" fill="none" stroke="var(--fg)" stroke-width="1.5" stroke-linecap="round"/>
+  <text x="510" y="97" font-size="14" font-weight="600" fill="var(--fg)" text-anchor="middle">写作助手</text>
+  <rect x="586" y="78" width="52" height="22" rx="11" fill="var(--surface)" stroke="var(--border)"/>
+  <text x="612" y="93" font-size="10" fill="var(--muted)" text-anchor="middle">标准</text>
+
+  <rect x="486" y="126" width="150" height="44" rx="14" fill="var(--accent)"/>
+  <text x="561" y="153" font-size="11" fill="var(--surface)" text-anchor="middle">把这封邮件改简洁</text>
+
+  <rect x="384" y="184" width="240" height="104" rx="14" fill="var(--surface)" stroke="var(--border)"/>
+  <rect x="400" y="202" width="200" height="7" rx="3.5" fill="var(--border)"/>
+  <rect x="400" y="218" width="176" height="7" rx="3.5" fill="var(--border)"/>
+  <rect x="400" y="234" width="208" height="7" rx="3.5" fill="var(--border)"/>
+  <rect x="400" y="250" width="112" height="7" rx="3.5" fill="var(--border)"/>
+  <text x="400" y="276" font-size="10" fill="var(--accent)">复制</text>
+  <text x="440" y="276" font-size="10" fill="var(--accent)">重新生成</text>
+
+  <rect x="384" y="472" width="252" height="44" rx="22" fill="var(--surface)" stroke="var(--border)"/>
+  <text x="402" y="499" font-size="11" fill="var(--muted)">继续输入…</text>
+  <circle cx="612" cy="494" r="14" fill="var(--accent)"/>
+  <text x="612" y="499" font-size="12" fill="var(--surface)" text-anchor="middle">↑</text>
+
+  <rect x="460" y="546" width="100" height="4" rx="2" fill="var(--border)"/>
+
+  <!-- Phone 3 -->
+  <rect x="690" y="24" width="300" height="540" rx="30" fill="var(--surface)" stroke="var(--border)" stroke-width="1.5"/>
+  <text x="718" y="56" font-size="11" fill="var(--muted)">9:41</text>
+  <text x="718" y="98" font-size="20" font-weight="600" fill="var(--fg)">模块库</text>
+  <rect x="714" y="112" width="252" height="40" rx="20" fill="var(--surface)" stroke="var(--border)"/>
+  <circle cx="738" cy="132" r="4.5" fill="none" stroke="var(--muted)" stroke-width="1.5"/>
+  <line x1="741.5" y1="135.5" x2="746" y2="140" stroke="var(--muted)" stroke-width="1.5" stroke-linecap="round"/>
+  <text x="758" y="137" font-size="11" fill="var(--muted)">搜索模块或场景</text>
+
+  <rect x="714" y="168" width="44" height="26" rx="13" fill="var(--accent)"/>
+  <text x="736" y="185" font-size="10" fill="var(--surface)" text-anchor="middle">全部</text>
+  <rect x="764" y="168" width="44" height="26" rx="13" fill="var(--surface)" stroke="var(--border)"/>
+  <text x="786" y="185" font-size="10" fill="var(--muted)" text-anchor="middle">工作</text>
+  <rect x="814" y="168" width="44" height="26" rx="13" fill="var(--surface)" stroke="var(--border)"/>
+  <text x="836" y="185" font-size="10" fill="var(--muted)" text-anchor="middle">学习</text>
+  <rect x="864" y="168" width="44" height="26" rx="13" fill="var(--surface)" stroke="var(--border)"/>
+  <text x="886" y="185" font-size="10" fill="var(--muted)" text-anchor="middle">生活</text>
+  <rect x="914" y="168" width="44" height="26" rx="13" fill="var(--surface)" stroke="var(--border)"/>
+  <text x="936" y="185" font-size="10" fill="var(--muted)" text-anchor="middle">开发</text>
+
+  <rect x="714" y="214" width="252" height="56" rx="14" fill="var(--surface)" stroke="var(--border)"/>
+  <rect x="726" y="228" width="28" height="28" rx="9" fill="var(--accent)" opacity="0.12"/>
+  <text x="740" y="247" font-size="11" fill="var(--accent)" text-anchor="middle">文</text>
+  <text x="766" y="238" font-size="12" fill="var(--fg)">文件速读</text>
+  <text x="766" y="255" font-size="10" fill="var(--muted)">长文档摘要与追问</text>
+  <circle cx="938" cy="242" r="11" fill="none" stroke="var(--accent)"/>
+  <text x="938" y="246" font-size="11" fill="var(--accent)" text-anchor="middle">+</text>
+
+  <rect x="714" y="282" width="252" height="56" rx="14" fill="var(--surface)" stroke="var(--border)"/>
+  <rect x="726" y="296" width="28" height="28" rx="9" fill="var(--accent)" opacity="0.12"/>
+  <text x="740" y="315" font-size="11" fill="var(--accent)" text-anchor="middle">码</text>
+  <text x="766" y="306" font-size="12" fill="var(--fg)">代码助手</text>
+  <text x="766" y="323" font-size="10" fill="var(--muted)">贴片段即解释报错</text>
+  <circle cx="938" cy="310" r="11" fill="none" stroke="var(--accent)"/>
+  <text x="938" y="314" font-size="11" fill="var(--accent)" text-anchor="middle">+</text>
+
+  <rect x="714" y="350" width="252" height="56" rx="14" fill="var(--surface)" stroke="var(--border)"/>
+  <rect x="726" y="364" width="28" height="28" rx="9" fill="var(--accent)" opacity="0.12"/>
+  <text x="740" y="383" font-size="11" fill="var(--accent)" text-anchor="middle">记</text>
+  <text x="766" y="374" font-size="12" fill="var(--fg)">灵感笔记</text>
+  <text x="766" y="391" font-size="10" fill="var(--muted)">一句话先存下来</text>
+  <circle cx="938" cy="378" r="11" fill="none" stroke="var(--accent)"/>
+  <text x="938" y="382" font-size="11" fill="var(--accent)" text-anchor="middle">+</text>
+
+  <rect x="714" y="418" width="252" height="56" rx="14" fill="var(--surface)" stroke="var(--border)"/>
+  <rect x="726" y="432" width="28" height="28" rx="9" fill="var(--accent)" opacity="0.12"/>
+  <text x="740" y="451" font-size="11" fill="var(--accent)" text-anchor="middle">顾</text>
+  <text x="766" y="442" font-size="12" fill="var(--fg)">每日回顾</text>
+  <text x="766" y="459" font-size="10" fill="var(--muted)">昨天都做了什么</text>
+  <circle cx="938" cy="446" r="11" fill="none" stroke="var(--accent)"/>
+  <text x="938" y="450" font-size="11" fill="var(--accent)" text-anchor="middle">+</text>
+
+  <line x1="714" y1="494" x2="966" y2="494" stroke="var(--border)"/>
+  <circle cx="740" cy="512" r="2" fill="var(--accent)"/>
+  <text x="740" y="536" font-size="10" fill="var(--muted)" text-anchor="middle">首页</text>
+  <text x="805" y="536" font-size="10" fill="var(--muted)" text-anchor="middle">对话</text>
+  <text x="870" y="536" font-size="10" fill="var(--accent)" text-anchor="middle">模块</text>
+  <text x="935" y="536" font-size="10" fill="var(--muted)" text-anchor="middle">我的</text>
+
+  <text x="180" y="598" font-size="11" fill="var(--muted)" text-anchor="middle">① 工作台 · 只留你用的模块</text>
+  <text x="510" y="598" font-size="11" fill="var(--muted)" text-anchor="middle">② 对话 · 所有模块的统一落点</text>
+  <text x="840" y="598" font-size="11" fill="var(--muted)" text-anchor="middle">③ 模块库 · 后台配置，用户自选</text>
+</svg>
